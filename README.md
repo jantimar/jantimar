@@ -7,10 +7,10 @@ I am an enthusiast iOS developer with a few years of experience. If you need hel
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://apps.apple.com/sk/developer/jan-timar/id1012503784">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=apple" alt="AppStore">
+        <img src="https://img.shields.io/badge/AppStore-lightgrey?style=flat-square&logo=apple" alt="AppStore">
     </a>
     <a href="https://jantimar.github.io">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=github" alt="Blog">
+        <img src="https://img.shields.io/badge/Blog-red?style=flat-square&logo=github" alt="Blog">
     </a>
   </p>
 
